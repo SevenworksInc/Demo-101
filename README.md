@@ -4,3 +4,4 @@
 * Cloninng
 * Forking
 * Updating
+* Committing
